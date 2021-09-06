@@ -14,6 +14,6 @@
 
 git add .
 git commit -m "发布部署-测试"
-git tag v0.1.7
+git tag v0.1.8
 # git tag
-git push origin v0.1.7
+git push origin v0.1.8
